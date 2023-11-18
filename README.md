@@ -1,5 +1,5 @@
-# Travel_Adviser
-# Travel Adviser Web App
+# Travel_Advisor
+# Travel Advisor Web App
 
 ## Project Description
 Travel Adviser Web App is a MERN stack-based web application designed to help users share and explore travel experiences and reviews. With its user-friendly interface and the power of Google Maps integration, it allows users to effortlessly add and discover new destinations. This project is built using HTML, CSS, JavaScript, and Node.js and utilizes RESTful APIs for data retrieval and storage.
@@ -27,7 +27,7 @@ Travel Adviser Web App is a MERN stack-based web application designed to help us
 ## Installation
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/Akshay1299/Travel_Advisory
+   git clone https://github.com/Ashwin-5100/Travel-Adviser
 2. Change directory to the project folder.
    ```bash
    cd travel-advisor-web-app
